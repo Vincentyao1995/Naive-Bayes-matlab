@@ -1,1 +1,2 @@
-# Naive-Bayes(matlab
+# Naive-Bayes(matlab)
+基于朴素贝叶斯原理实现的分类器，用户可以自由选择输入txt数据文档或者图片格式文档。更多具体细节、结果请见课程作业提交说明：bayes姚毅.docx
